@@ -1,0 +1,7 @@
+void printName() {
+  print("My name is Asfaqur Rahman Misbah");
+}
+
+void main() {
+  printName();
+}
